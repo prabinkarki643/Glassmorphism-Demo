@@ -1,4 +1,4 @@
-# Demo for creating animated care with Glassmorphism effect
+# Demo for creating animated card with Glassmorphism effect and React-Spring
 
 <img src="./gitImage/demo.png">
 
