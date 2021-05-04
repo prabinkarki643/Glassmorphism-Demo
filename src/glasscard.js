@@ -10,7 +10,7 @@ const Container = styled(animated.div)`
   border-radius: 10px;
   z-index: 1;
   position: relative;
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(10px);
   border: 2px solid transparent;
   background-clip: border-box;
   cursor: pointer;
@@ -25,12 +25,15 @@ const StyledImg = styled.img`
 
 const StyledH1 = styled.h1`
   line-heright: 1.5;
+  color:white;
+  font-weight:bold;
   letter-spacing: 1.5;
   font-family: "Gilroy";
 `;
 
 const StyledH3 = styled.h3`
   line-heright: 1.5;
+  color:white;
   letter-spacing: 1.15;
   font-family: "Gilroy";
   font-size: 20px;
@@ -58,7 +61,7 @@ const GlassCard = () => {
       }}
     >
       <StyledImg src={profile} />
-      <StyledH1>Prabin Karki</StyledH1>
+      <StyledH1><b>Prabin Karki</b></StyledH1>
       <StyledH3>
         Software Engineer, Designer <br /> and Full Stack Developer
       </StyledH3>
