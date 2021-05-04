@@ -1,5 +1,6 @@
 # Demo for creating animated care with Glassmorphism effect
 
+<img src="./gitImage/demo.png">
 
 ## Demo
 
