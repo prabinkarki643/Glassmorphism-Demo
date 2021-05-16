@@ -24,7 +24,7 @@ const StyledImg = styled.img`
 `;
 
 const StyledH1 = styled.h1`
-  line-heright: 1.5;
+  line-height: 1.5;
   color:white;
   font-weight:bold;
   letter-spacing: 1.5;
@@ -32,7 +32,7 @@ const StyledH1 = styled.h1`
 `;
 
 const StyledH3 = styled.h3`
-  line-heright: 1.5;
+  line-height: 1.5;
   color:white;
   letter-spacing: 1.15;
   font-family: "Gilroy";
